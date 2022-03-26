@@ -1,6 +1,6 @@
 {
-	"ip":"theoaosmp.aternos.me:46768",
+	"ip":"theoaosmp.aternos.me",
 	"port": "46768",
-	"name": "AFKBot",
+	"name": "AFKBOT",
 	"auto-night-skip":"false"
 }
